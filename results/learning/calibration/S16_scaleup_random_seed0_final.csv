@@ -1,0 +1,2 @@
+tag,scenario,S,arm,method,seed,scale_factor,population_tag,episodes,top_k_paths,wall_time_s,n_episodes,mean_travel_time_final,mean_regret_final,max_regret_final,epsilon_compliance_rate_final,arrival_rate_final,h_global,cell_wall_time_s
+S16_scaleup_random_seed0,sioux_falls,16,scaleup,random,0,1.0,S16,10,9,3984.785656452179,10,45961.708203125,45598.892578125,63128.244140625,0.002038849168457091,0.007961483765393495,1.978407522270626,4396.17788028717

@@ -1,0 +1,2 @@
+tag,engine,scenario,loading,seed,threads,capacity_factor,population_file,hostname,slurm_job,cpu,t_total_s,t_engine_s
+los_angeles_L0p02_sumo_s0,sumo,los_angeles,0.02,0,4,0.02,L0p02car_population.xml,node-54,job-370,AMD EPYC 9454 48-Core Processor,558.1945614311844,558.1945614311844

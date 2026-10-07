@@ -1,0 +1,13 @@
+scenario,series,n,mean,median,max,pct_geh_lt_5,pct_geh_lt_10
+berlin_1pct_car_prefix_engine,en_route,2880,30.49,10.89,123.98,45.8%,49.5%
+berlin_1pct_car_prefix_engine,departures,2880,3.39,0.24,137.41,84.6%,97.6%
+berlin_1pct_car_prefix_engine,arrivals,2880,4.08,0.53,136.82,77.3%,97.5%
+berlin_1pct_car_prefix_engine,link_volume,3180780,0.68,0.09,88.41,97.5%,98.7%
+berlin_1pct_car,en_route,2880,0.08,0.03,0.74,100.0%,100.0%
+berlin_1pct_car,departures,2880,0.06,0.02,0.65,100.0%,100.0%
+berlin_1pct_car,arrivals,2880,0.09,0.03,0.83,100.0%,100.0%
+berlin_1pct_car,link_volume,3180780,0.01,0.00,1.41,100.0%,100.0%
+los_angeles_1pct_car,en_route,2880,0.19,0.16,0.96,100.0%,100.0%
+los_angeles_1pct_car,departures,2880,0.55,0.44,3.08,100.0%,100.0%
+los_angeles_1pct_car,arrivals,2880,0.57,0.47,2.99,100.0%,100.0%
+los_angeles_1pct_car,link_volume,23094540,0.01,0.00,2.45,100.0%,100.0%

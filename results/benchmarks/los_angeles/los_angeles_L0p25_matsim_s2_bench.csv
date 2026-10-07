@@ -1,0 +1,2 @@
+tag,engine,scenario,loading,seed,threads,capacity_factor,population_file,hostname,slurm_job,cpu,t_total_s,t_engine_s
+los_angeles_L0p25_matsim_s2,matsim,los_angeles,0.25,2,4,0.25,L0p25car_population.xml,node-38,job-328,AMD EPYC 9454 48-Core Processor,4292.267091786023,4080.742

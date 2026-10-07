@@ -1,0 +1,2 @@
+tag,scenario,S,arm,method,seed,scale_factor,population_tag,episodes,top_k_paths,episode,mean_travel_time,mean_regret,epsilon_compliance_rate
+probe_S3_aon,sioux_falls,3.0,probe,aon,0,1.0,S3,1,9,1,8550.1474609375,8039.4453125,0.19561590254306793

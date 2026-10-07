@@ -1,0 +1,2 @@
+tag,engine,scenario,loading,seed,threads,population_file,hostname,slurm_job,cpu,t_total_s,t_engine_s
+sioux_falls_L4_matsim_s2,matsim,sioux_falls,4.0,2,4,S4_population.xml,node-01,job-052,AMD EPYC 9454 48-Core Processor,30.168404679745436,21.59

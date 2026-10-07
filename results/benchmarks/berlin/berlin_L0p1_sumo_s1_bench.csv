@@ -1,0 +1,2 @@
+tag,engine,scenario,loading,seed,threads,capacity_factor,population_file,hostname,slurm_job,cpu,t_total_s,t_engine_s
+berlin_L0p1_sumo_s1,sumo,berlin,0.1,1,4,0.01,B0p1car_population.xml,node-30,job-312,AMD EPYC 9454 48-Core Processor,72.33591757901013,72.33591757901013

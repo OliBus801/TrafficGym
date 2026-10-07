@@ -1,0 +1,2 @@
+tag,engine,scenario,loading,seed,threads,population_file,hostname,slurm_job,cpu,t_total_s,t_engine_s
+berlin_L4_matsim_s2,matsim,berlin,4.0,2,4,B4_population.xml,node-05,job-090,AMD EPYC 9454 48-Core Processor,526.694538673386,451.699

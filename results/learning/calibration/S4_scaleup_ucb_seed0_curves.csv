@@ -1,0 +1,11 @@
+tag,scenario,S,arm,method,seed,scale_factor,population_tag,episodes,top_k_paths,episode,mean_travel_time,mean_regret,epsilon_compliance_rate
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,1,31216.91015625,30805.74609375,0.015720505267381668
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,2,12616.7431640625,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,3,18110.6953125,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,4,31919.609375,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,5,34550.234375,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,6,36326.62109375,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,7,38614.671875,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,8,38773.84765625,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,9,38297.35546875,,
+S4_scaleup_ucb_seed0,sioux_falls,4,scaleup,ucb,0,1.0,S4,10,9,10,16041.052734375,15580.7001953125,0.06598200649023056

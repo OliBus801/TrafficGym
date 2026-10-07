@@ -1,0 +1,2 @@
+tag,engine,scenario,loading,seed,threads,population_file,hostname,slurm_job,cpu,t_total_s,t_engine_s,t_setup_s,n_agents,arrived,steps_run,fa_forced_moves,fa_total_moves,fa_forced_move_rate,fa_forced_steps,fa_mean_overflow_slots,fa_max_overflow_slots,fa_peak_link_excess,fa_overcapacity_link_steps
+sioux_falls_L6_torchdnl_s2,torchdnl,sioux_falls,6.0,2,4,S6_population.xml,node-01,job-027,AMD EPYC 9454 48-Core Processor,288.4061266044155,274.59123490937054,13.814891695044935,394548,162848,86400,164435,5220149,0.031500058714799134,54380,129.46768631982243,1694,1693,4161613

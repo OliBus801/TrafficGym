@@ -1,0 +1,54 @@
+{
+    "_comment": "TAMARL Training Configuration — Default values for all parameters",
+    "scenario": {
+        "path": "tamarl/data/scenarios/braess/k5/paradox",
+        "population_filter": null,
+        "scale_factor": 1.0
+    },
+    "training": {
+        "agent": "random",
+        "top_k_paths": 9,
+        "episodes": 100,
+        "max_steps": 14400,
+        "stuck_threshold": 10,
+        "timestep": 1.0,
+        "device": "cpu",
+        "seed": null,
+        "formulation": "agent",
+        "bandit_feedback": "full"
+    },
+    "epsilon_greedy": {
+        "epsilon_start": 1.0,
+        "epsilon_end": 0.05,
+        "epsilon_decay": 0.995,
+        "epsilon_alpha": 0.1
+    },
+    "ucb": {
+        "c": 100.0
+    },
+    "thompson_sampling": {
+        "prior_std": 10000.0,
+        "env_std": null
+    },
+    "exp3": {
+        "eta": 0.01,
+        "gamma": 0.05
+    },
+    "logging": {
+        "log_interval": 1,
+        "wandb_enabled": false,
+        "wandb_project": "tamarl-bench-2026",
+        "wandb_tags": null
+    },
+    "rendering": {
+        "render": null,
+        "format": "live",
+        "fps": 10,
+        "hours": null,
+        "speed": 1
+    },
+    "metrics": {
+        "epsilon_ratio": 0.1,
+        "link_tt_interval": 60.0
+    }
+}
