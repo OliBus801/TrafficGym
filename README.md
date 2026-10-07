@@ -11,13 +11,15 @@
 At its core is **TorchDNL**, a vectorized Dynamic Network Loading engine implemented entirely in PyTorch tensor ops — no Python-level per-agent loop anywhere in the simulation step. RL agents choose routes; TorchDNL simulates the resulting queueing, spillback, and flow-capacity dynamics and returns travel times as rewards. It scales to metropolitan-scale networks (Berlin, Los Angeles, ...) and populations exceeding $10^6$ concurrently learning agents.
 
 <p align="center">
-  <img src="tamarl/data/scenarios/berlin/output/1pct_8to12/simulation-ezgif.com-crop.gif" alt="TrafficGym simulating 1% of Berlin's population" width="100%">
+  <img src="assets/berlin.gif" alt="TrafficGym simulating 1% of Berlin's population" width="100%">
 </p>
 
 <p align="center">
-  <img src="tamarl/data/scenarios/shockwave/simple/output/simulation.gif" alt="TrafficGym demo: a toy bottleneck scenario" width="100%"><br>
+  <img src="assets/shockwave.gif" alt="TrafficGym demo: a toy bottleneck scenario" width="100%"><br>
   <em>A shockwave forming at a capacity bottleneck in a toy corridor network.</em>
 </p>
+
+
 
 ## Table of Contents
 
